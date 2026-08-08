@@ -1,0 +1,4 @@
+s ={1,2,3,4,5}
+S={2,3}
+
+print(s.issuperset(S))
